@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(53,82,66,.5)
-    ,rgba(47, 80,63,0.6)),url(images/bg.jpg)
+    ,rgba(47, 80,63,0.6))
     center no-repeat;background-size: cover;
 
     overflow: hidden;
